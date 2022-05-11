@@ -8,7 +8,11 @@
 
 <br>
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+## Previews
+
+<img src="assets/preview1.gif" alt="exemplo imagem">
+<hr>
+<img src="assets/preview2.gif" alt="exemplo imagem">
 
 <br>
 
