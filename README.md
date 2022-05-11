@@ -1,10 +1,6 @@
 # Compra de Pizza
 
-![GitHub repo size](https://img.shields.io/github/repo-size/GuilhermeIgnacio/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/GuilhermeIgnacio/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/GuilhermeIgnacio/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/GuilhermeIgnacio/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/GuilhermeIgnacio/README-template?style=for-the-badge)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/35547a46-687f-4907-899e-94ae4b75378b/deploy-status)](https://app.netlify.com/sites/compra-de-pizza/deploys)
 
 <br>
 
