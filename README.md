@@ -1,10 +1,10 @@
 # Compra de Pizza
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/GuilhermeIgnacio/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/GuilhermeIgnacio/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/GuilhermeIgnacio/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/GuilhermeIgnacio/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/GuilhermeIgnacio/README-template?style=for-the-badge)
 
 <br>
 
@@ -31,4 +31,4 @@
 
 ## Acessando o Projeto
 
-> Você pode acessá-lo [Clicando aqui](https://www.google.com/)
+> Você pode acessá-lo [Clicando aqui](https://compra-de-pizza.netlify.app/)
