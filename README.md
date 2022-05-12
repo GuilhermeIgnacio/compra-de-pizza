@@ -2,7 +2,7 @@
 
 <br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/35547a46-687f-4907-899e-94ae4b75378b/deploy-status)](https://app.netlify.com/sites/compra-de-pizza/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/35547a46-687f-4907-899e-94ae4b75378b/deploy-status)](https://compra-de-pizza.netlify.app/)
 
 <br>
 
